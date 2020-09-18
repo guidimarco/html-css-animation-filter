@@ -150,12 +150,12 @@ a.ex-12-button:hover .ex-12-bottom-white {
 /* ex 13 */
 a.ex-13-button:hover .ex-13-top-white {
     animation: clockwise-top 4s linear 0s 1 normal;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 a.ex-13-button:hover .ex-13-bottom-white {
     animation: clockwise-bottom 4s linear 0s 1 normal;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 @keyframes clockwise-top {
